@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Header: React.FC = () => {
-  const logoUrl = 'https://raw.githubusercontent.com/LABirintar/producao/main/logosLabirintar/Logo2.png';
+  const logoUrl = 'https://raw.githubusercontent.com/LABirintar/comercial/main/logoslabirintar/Labirintar_RGB.png';
   return (
     <header className="text-center mb-12 flex flex-col items-center">
       <img 
